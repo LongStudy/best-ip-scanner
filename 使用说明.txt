@@ -23,6 +23,8 @@ ip-scanner/cloudflare：
 ===================================
 # 脚本【各地区测速443.bat】的作用为 ip-scanner/cloudflare 中的443端口测速后获取最快 IP
 ===================================
+# 脚本【cloudflare_ipv4.bat】的作用为 cloudflare ipv4节点 测速后获取最快 IP
+===================================
 # 脚本【cloudflare_ipv6.bat】的作用为 cloudflare ipv6节点 测速后获取最快 IP，适合国内ipv6环境
 ===================================
 # 脚本【cloudfront延迟.bat】的作用为 cloudfront 非国内ip测速后获取延迟最低 IP
